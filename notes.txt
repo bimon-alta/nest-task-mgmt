@@ -1,0 +1,10 @@
+1. Cara install yarn windows, via node
+npm install -g yarn
+
+2. Add local to remote github repo
+git remote add origin https://github.com/bimon-alta/microservices-udemy.git
+git remote
+git remote -v
+git add -A
+git commit -m 'copy from local to remote'
+git push -u origin master
