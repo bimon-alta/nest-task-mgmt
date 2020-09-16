@@ -2,7 +2,7 @@
 npm install -g yarn
 
 2. Add local to remote github repo
-git remote add origin https://github.com/bimon-alta/microservices-udemy.git
+git remote add origin https://github.com/bimon-alta/nest-task-mgmt.git
 git remote
 git remote -v
 git add -A
